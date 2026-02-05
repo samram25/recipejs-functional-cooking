@@ -1,3 +1,4 @@
+//Part 3 CHANGE: toggle steps & ingredients UI improved
 // ------------------ Recipe Data ------------------
 // Original data NEVER changes (important for functional programming)
 const recipes = [
